@@ -1,8 +1,5 @@
 ---
-title: My GitHub Pages Notebook!
+title: research
 ---
 
-Hello world!
-
-Write some words here!
-Heyyyyy this is me, writing to me! hello!
+Hey this is my notebook.

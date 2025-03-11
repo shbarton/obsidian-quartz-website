@@ -1,0 +1,1 @@
+the thing about periods that nobody talks about (bias) is that they dont stop from the end, they stop from the middle and i just think we need to talk about that more.
