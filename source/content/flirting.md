@@ -132,7 +132,6 @@ He had the choice always.
 
 And he respected mine.
 
-  
 
 Years of connection developed.
 
@@ -170,7 +169,7 @@ Hes still with me. I still miss him but it’s not a traditional miss. It’s an
 
   
 
-- something about a feedback loop here!!! A feedback of building the sum of Angus in my mind and then falling in love with that version as I was the irl version, the more accurate it would be as I kept recalibrating with him, he got a say in how I saw him, and the sum of him grew and updated and developed further and so the feedback of falling in love again kept happening.
+- something about a feedback loop here!!! A feedback of building the sum of A in my mind and then falling in love with that version as I was the irl version, the more accurate it would be as I kept recalibrating with him, he got a say in how I saw him, and the sum of him grew and updated and developed further and so the feedback of falling in love again kept happening.
     
 
   
