@@ -35,7 +35,7 @@ When did it start? Has it always been around?
 
 **
 
-My experience with Angus is a great example of this.
+My experience with A is a great example of this.
 
 The flirting was always there, but the actions weren’t.
 
@@ -121,15 +121,8 @@ I asked him what he wanted to do and he mentioned liking the show Boston legal. 
 
 We sat and watched it for HOURS, him explaining who the characters were and me being again oblivious to perhaps some early flirtation happening from him?
 
-I had just turned 17 at the time. He was 14 - a minor.
-
-Not a super large age gap but I kept that in mind when I did notice him flirting.
-
-He was a cute baby brother vibe that I was v protective of.
-
 After meeting him, we kept in contact bc we had despite the age gap ALOT in common.
 
-  
 
 Years of flirty friendship between us continued, the conversation of “I like you” happened from his side and I explained that even though I liked flirting with him I couldn’t be with him or confess my feelings, as it was inappropriate. He didn’t hate me but instead respected me more.
 
@@ -138,11 +131,6 @@ I never stopped him from exploring anything in his life, but this was not someth
 He had the choice always.
 
 And he respected mine.
-
-  
-
-- I think I’ve stopped myself from sharing this bc I was scared of the age gap and people making it something it wasn’t. We were both children. There is nothing to be ashamed of. Especially such a beautiful connection that has and will always stand the test of time -
-    
 
   
 
