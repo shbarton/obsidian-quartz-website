@@ -1,1 +1,1 @@
-walking around this house i can smell the scent of sex. my housemates perfume turns me on so fucking much. not him, just the way he smells, but also him by assosciation? wtf.
+walking around this house i can smell the scent of sex. my housemates perfume turns me on so fucking much. not him, just the way he smells, but also him by association? wtf.
