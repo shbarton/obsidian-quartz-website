@@ -202,7 +202,7 @@ This type of love doesn’t need to be physical either btw (but I have a sneaky 
 
   
 
-- a note on if this can happen without sex. I have a friend who is like a brother but I can’t use my sum of his model in my head for comfort as I can w A. It’s different for some reason. Maybe because it’s it’s not “all of me”. It’s just “the me without the sexual parts” and I think that’s important to remember. It’s not any less of a connection just different. And as such it’s a tool that cannot be used in the same contexts (like for validation of self esteem).
+- a note on if this can happen without sex. I have a friend who is like a brother but I can’t use my sum of his model in my head for comfort as I can w A. It’s different for some reason. Maybe because it’s not “all of me”. It’s just “the me without the sexual parts” and I think that’s important to remember. It’s not any less of a connection just different. And as such it’s a tool that cannot be used in the same contexts (like for validation of self esteem).
     
 
   
