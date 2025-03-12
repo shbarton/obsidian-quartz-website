@@ -205,10 +205,6 @@ This type of love doesn’t need to be physical either btw (but I have a sneaky 
 - a note on if this can happen without sex. I have a friend who is like a brother but I can’t use my sum of his model in my head for comfort as I can w A. It’s different for some reason. Maybe because it’s not “all of me”. It’s just “the me without the sexual parts” and I think that’s important to remember. It’s not any less of a connection just different. And as such it’s a tool that cannot be used in the same contexts (like for validation of self esteem).
     
 
-  
-  
-  
-
 But I am curious as to whether it can happen without the physical. Perhaps not as there will always have an aspect of “I wonder”.
 
 And building internal sums with “I wonder” doesn’t work. If there’s a space, life will fill it and it’s the same with the mind.
@@ -219,6 +215,6 @@ This can leak into the sun and affect it, we don’t want that.
 
 This sum is precious, so care is taken seriously.
 
-Even now, I have this sense of protection with the way I feel and love for Angus bc I don’t want it to get affected by anything like that. I’ll cherish it and care for it forever, making sure nothing infects this special place that we both built, bc I feel it’s not just me, it’s something we consciously built together, and perhaps I can’t affect it without it also affecting him in some way. So best to let it just do its thing, it’s happier that way, and so am I :) (as I assume he is)
+Even now, I have this sense of protection with the way I feel and love for A bc I don’t want it to get affected by anything like that. I’ll cherish it and care for it forever, making sure nothing infects this special place that we both built, bc I feel it’s not just me, it’s something we consciously built together, and perhaps I can’t affect it without it also affecting him in some way. So best to let it just do its thing, it’s happier that way, and so am I :) (as I assume he is)
 
 **
