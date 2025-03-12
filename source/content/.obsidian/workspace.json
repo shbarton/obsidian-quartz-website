@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "machine learning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "machine learning"
+            }
+          },
+          {
+            "id": "10b40f6b2c02fd5a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "words.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "words"
             }
           },
           {
@@ -35,7 +49,8 @@
               "title": "Some note"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "words.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks for words"
             }
           },
           {
@@ -127,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "words.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from index"
+              "title": "Outgoing links from words"
             }
           },
           {
@@ -156,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md",
+                "file": "words.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of words"
             }
           }
         ]
@@ -183,13 +198,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "47ef711f7e8c1d64",
+  "active": "10b40f6b2c02fd5a",
   "lastOpenFiles": [
+    "machine learning.md",
+    "words.md",
+    "judgement.md",
+    "index.md",
     "ai.md",
     "edging.md",
     "flirting.md",
     "hurt.md",
-    "index.md",
     "IRL cultural experiment.md",
     "horny.md",
     "Egg.md",
@@ -206,12 +224,9 @@
     "periods.md",
     "past lives.md",
     "ocean.md",
-    "machine learning.md",
     "love.md",
-    "judgement.md",
     "heartache.md",
     "heart.md",
-    "hearing.md",
     "category-folder"
   ]
 }
